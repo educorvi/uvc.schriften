@@ -1,0 +1,6 @@
+[report]
+include =
+    src/uvc/*
+omit =
+    */test*
+    */upgrades/*
